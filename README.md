@@ -16,7 +16,7 @@ A Flask-based web app that predicts energy usage based on temperature and time u
 👉 [Visit the app](https://smart-energy-controller.onrender.com)
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png.png)
 
 ## Tech Stack
 - Python
